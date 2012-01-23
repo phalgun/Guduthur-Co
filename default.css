@@ -203,6 +203,14 @@ hr {
 	padding: 40px 0px;
 }
 
+#wrapper2 {
+	background: #FFFFFF;
+	padding: 40px 0px;
+	display: block;
+	float: left;
+}
+
+
 /* Page */
 
 #page {
@@ -368,6 +376,14 @@ ul.style1 a {
 			
 }
 
+#box5 {
+	
+	font-family: Arial, Helvetica, sans-serif;
+
+	padding: 30px 20px 20px 30px;
+}
+
+
 #para {
 	
 	font-size: 14px;	
@@ -399,3 +415,29 @@ h4.moretext-subheading {
 	font-weight: bolder;
 		
 }
+
+#qrcode {
+	
+	width : 160px;
+	height : 160px;
+	
+}
+
+#contactemail {
+	
+	font-size: 20px;
+	line-height: 150%;
+}
+
+#contactphone {
+	
+	font-size: 20px;
+	color: #FF9601;
+	line-height: 150%;
+}
+
+.readmoreless:HOVER {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
